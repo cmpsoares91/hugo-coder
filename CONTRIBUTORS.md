@@ -1,5 +1,7 @@
 # Contributors
 
+- [Carlos Soares](https://github.com/cmpsoares91)
+- [Luiz de Prá](https://github.com/luizdepra)
 - [Chip Senkbeil](https://github.com/chipsenkbeil)
 - [Dale Noe](https://github.com/dalenoe)
 - [Gabor Nagy](https://github.com/Aigeruth)
