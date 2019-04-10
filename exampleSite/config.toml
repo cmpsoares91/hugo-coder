@@ -1,7 +1,7 @@
 baseurl = "http://www.example.com"
 title = "johndoe"
 
-theme = "hugo-coder"
+theme = "hugo-coderblog"
 
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -29,7 +29,7 @@ disqusShortname = "yourdiscussshortname"
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    commit = "https://github.com/cmpsoares91/hugo-coderblog/tree/"
 
     rtl = false
 
